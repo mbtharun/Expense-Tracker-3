@@ -13,7 +13,7 @@ This is a simple command-line based Expense Tracker built in Python. It allows u
 
 1. **Clone the repository**:
     ```bash
-    git clone <>
+    git clone <https://github.com/mbtharun/Expense-Tracker---3.git>
     ```
 
 2. **Navigate to the project directory**:
