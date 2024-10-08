@@ -56,3 +56,20 @@ This is a simple command-line based Expense Tracker built in Python. It allows u
 
 ## File Structure
 
+├── expense_tracker.py # The main Python script ├── expenses.json # Stores all expenses in JSON format ├── README.md # This file
+
+
+## Requirements
+
+- Python 3.x
+
+## Error Handling
+
+- If `expenses.json` is not found, the program will create a new one.
+- If the JSON data is corrupted, the program will reset the data to an empty list to avoid crashes.
+
+## Contribution
+
+Feel free to fork this project and submit pull requests. Suggestions and improvements are welcome!
+
+
